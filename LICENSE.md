@@ -1,0 +1,6 @@
+Copyright (c) 2026 Burro Explorations LLC
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+
+To view a copy of this license, visit http://creativecommons.org or send a letter to Creative Commons, PO Box 1866, Mountain View, California, 94042, USA.
+
