@@ -4,6 +4,8 @@
 
 Some parts and projects designed for my U1300L - I hope you find them useful. Non-commercial use only.
 
+Some printable parts are also available on [MakerWorld](https://makerworld.com/en/@nrh3k).
+
 ## Highlights
 
 ### Modular headlight system
@@ -20,6 +22,8 @@ This was built around JW Speaker 8631 and 8910 EVO 2 lamps, both in 24V, but sho
 
 I had the brackets cut by SendCutSend in .119 steel and powder-coated black for about $200. In .100 aluminum, they were about half that price.
 
+The rest of the system is 3D printed and uses heat-set inserts to mount the retaining rings to the backing plate.
+
 Relevant files:
 
 - `headlight system/headlight dual holder.f3d`
@@ -35,6 +39,8 @@ Status: active development. Files marked `WIP` are works in progress.
 ![Dashboard panel CAD model](<dashboard/dashboard model.png>)
 
 Ongoing dashboard work to clean up and beautify the cab. This includes an old-style dash panel, gauge holders, warning light plugs, switch/knob parts, and small hole plugs for making the dashboard feel more deliberate instead of patched together.
+
+The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light-switch-knob) and [dash plugs](https://makerworld.com/en/models/1440823-unimog-sbu-dash-plugs) are also on MakerWorld.
 
 Relevant files:
 
@@ -56,6 +62,8 @@ Status: ongoing.
 `SBU snorkel lamp holder.f3d`
 
 I broke the original snorkel lamp holder and did not realize replacements were still available, so I modeled my own. It turned out to be much harder than expected: the part has a lot of strange transitions, odd shapes, and packaging constraints that are not obvious until you try to reproduce it.
+
+This is also available from my [MakerWorld profile](https://makerworld.com/en/@nrh3k).
 
 Status: design archive / replacement part.
 
