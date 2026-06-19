@@ -36,11 +36,17 @@ Status: active development. Files marked `WIP` are works in progress.
 
 ### Dashboard cleanup
 
-![Dashboard panel CAD model](<dashboard/dashboard model.png>)
-
 Ongoing dashboard work to clean up and beautify the cab. This includes an old-style dash panel, gauge holders, warning light plugs, switch/knob parts, and small hole plugs for making the dashboard feel more deliberate instead of patched together.
 
 The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light-switch-knob) and [dash plugs](https://makerworld.com/en/models/1440823-unimog-sbu-dash-plugs) are also on MakerWorld.
+
+| Gauge holder | Headlight knob | Square warning light plug |
+| --- | --- | --- |
+| ![Double Auber gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
+
+| Hole plug | 12.3mm round plug | 14.3mm round plug |
+| --- | --- | --- |
+| ![Dashboard hole plug](dashboard/images/hole-plug.png) | ![12.3mm round dashboard hole plug](dashboard/images/round-hole-plug-12-3mm.png) | ![14.3mm round dashboard hole plug](dashboard/images/round-hole-plug-14-3mm.png) |
 
 Relevant files:
 
@@ -57,7 +63,9 @@ Status: ongoing.
 
 ### Snorkel lamp holder
 
-<img src="snorkel%20light%20holder%20installed.jpg" alt="Installed snorkel lamp holder" width="420">
+| Model | Installed |
+| --- | --- |
+| ![SBU snorkel lamp holder model](images/sbu-snorkel-lamp-holder-model.png) | <img src="snorkel%20light%20holder%20installed.jpg" alt="Installed snorkel lamp holder" width="256"> |
 
 `SBU snorkel lamp holder.f3d`
 
