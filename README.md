@@ -26,7 +26,7 @@ Some printable parts are also available on [MakerWorld](https://makerworld.com/e
 
 A modular headlight replacement system for the stock SBU / U1300L headlight setup.
 
-This was built around JW Speaker 8631 and 8910 EVO 2 lamps, both in 24V, but should work with any standard PAR46 round lamp and 5x7 rectangular lamp. The brackets replace the standard Hella buckets and reuse the same mounts. They do not need separate adjusters; there is enough flexibility in the existing brackets to aim them up/down and left/right.
+This was built around [J.W. Speaker Model 8631 Evolution](https://www.jwspeaker.com/products/led-headlight-model-8631-evolution/) and [J.W. Speaker Model 8910 Evolution 2](https://www.jwspeaker.com/products/led-headlights-model-8910-evolution-2/) lamps, both in 24V, but should work with any standard PAR46 round lamp and 5x7 rectangular lamp. The brackets replace the standard Hella buckets and reuse the same mounts. They do not need separate adjusters; there is enough flexibility in the existing brackets to aim them up/down and left/right.
 
 I had the brackets cut by SendCutSend in .119 steel and powder-coated black for about $200. In .100 aluminum, they were about half that price.
 
