@@ -24,7 +24,7 @@ Some printable parts are also available on [MakerWorld](https://makerworld.com/e
 | --- | --- | --- |
 | <img src="headlight%20system/headlights-installed.jpeg" alt="Installed modular headlight system on the Unimog" width="256"> | <img src="headlight%20system/headlight%20close%20up.JPG" alt="Close-up of the installed modular headlight system" width="256"> | <img src="headlight%20system/headlight%20model.png" alt="Modular headlight system CAD model" width="256"> |
 
-A modular headlight replacement system for the stock SBU / U1300L headlight setup. The goal is to make the lighting package easier to service and adapt while still fitting the original vehicle envelope.
+A modular headlight replacement system for the stock SBU / U1300L headlight setup.
 
 This was built around JW Speaker 8631 and 8910 EVO 2 lamps, both in 24V, but should work with any standard PAR46 round lamp and 5x7 rectangular lamp. The brackets replace the standard Hella buckets and reuse the same mounts. They do not need separate adjusters; there is enough flexibility in the existing brackets to aim them up/down and left/right.
 
@@ -43,8 +43,6 @@ The rest of the system is 3D printed and uses heat-set inserts to mount the reta
 
 </details>
 
-Status: active development. Files marked `WIP` are works in progress.
-
 ### Dashboard cleanup
 
 Ongoing dashboard work to clean up and beautify the cab. This includes an old-style dash panel, gauge holders, warning light plugs, switch/knob parts, and small hole plugs for making the dashboard feel more deliberate instead of patched together.
@@ -53,7 +51,7 @@ The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light
 
 | Gauge holder | Headlight knob | Square warning light plug |
 | --- | --- | --- |
-| ![Double Auber gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
+| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
 
 | Hole plug | 12.3mm round plug | 14.3mm round plug |
 | --- | --- | --- |
@@ -73,8 +71,6 @@ The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light
 
 </details>
 
-Status: ongoing.
-
 ### Snorkel lamp holder
 
 | Model | Installed |
@@ -92,8 +88,6 @@ This is also available from my [MakerWorld profile](https://makerworld.com/en/@n
 
 </details>
 
-Status: design archive / replacement part.
-
 ### OM366 pulley
 
 <img src="om366%20pulley.png" alt="OM366 pulley CAD model" width="560">
@@ -106,8 +100,6 @@ When adding air conditioning, I needed a dual-groove water pump pulley for the O
 - `om366 pulley.f3d`
 
 </details>
-
-Status: design archive / AC conversion support.
 
 ## Repository Layout
 
