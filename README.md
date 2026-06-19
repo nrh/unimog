@@ -6,15 +6,23 @@ Some parts and projects designed for my U1300L - I hope you find them useful. No
 
 Some printable parts are also available on [MakerWorld](https://makerworld.com/en/@nrh3k).
 
-## Highlights
+## Contents
+
+- [Modular headlight system](#modular-headlight-system)
+- [Dashboard cleanup](#dashboard-cleanup)
+- [Snorkel lamp holder](#snorkel-lamp-holder)
+- [OM366 pulley](#om366-pulley)
+- [Repository layout](#repository-layout)
+- [Notes](#notes)
+- [License](#license)
+
+## Projects
 
 ### Modular headlight system
 
-<img src="headlight%20system/headlights-installed.jpeg" alt="Installed modular headlight system on the Unimog" width="560">
-
-<img src="headlight%20system/headlight%20close%20up.JPG" alt="Close-up of the installed modular headlight system" width="560">
-
-![Modular headlight system CAD model](<headlight system/headlight model.png>)
+| Installed | Close-up | Model |
+| --- | --- | --- |
+| <img src="headlight%20system/headlights-installed.jpeg" alt="Installed modular headlight system on the Unimog" width="256"> | <img src="headlight%20system/headlight%20close%20up.JPG" alt="Close-up of the installed modular headlight system" width="256"> | <img src="headlight%20system/headlight%20model.png" alt="Modular headlight system CAD model" width="256"> |
 
 A modular headlight replacement system for the stock SBU / U1300L headlight setup. The goal is to make the lighting package easier to service and adapt while still fitting the original vehicle envelope.
 
@@ -24,13 +32,16 @@ I had the brackets cut by SendCutSend in .119 steel and powder-coated black for 
 
 The rest of the system is 3D printed and uses heat-set inserts to mount the retaining rings to the backing plate.
 
-Relevant files:
+<details>
+<summary>Files</summary>
 
 - `headlight system/headlight dual holder.f3d`
 - `headlight system/headlight dual holder v1.f3d`
 - `headlight system/headlight dual holder separate retainers.f3d`
 - `headlight system/headlight dual holder separate retainers v2 WIP.f3d`
 - `headlight system/headlight dual holder separate retainers.step`
+
+</details>
 
 Status: active development. Files marked `WIP` are works in progress.
 
@@ -48,7 +59,8 @@ The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light
 | --- | --- | --- |
 | ![Dashboard hole plug](dashboard/images/hole-plug.png) | ![12.3mm round dashboard hole plug](dashboard/images/round-hole-plug-12-3mm.png) | ![14.3mm round dashboard hole plug](dashboard/images/round-hole-plug-14-3mm.png) |
 
-Relevant files:
+<details>
+<summary>Files</summary>
 
 - `dashboard/unimog dash old style.step`
 - `dashboard/unimog dash old style.stl`
@@ -59,6 +71,8 @@ Relevant files:
 - `dashboard/round hole plug 14.3mm.f3d`
 - `dashboard/square warning light plug.f3d`
 
+</details>
+
 Status: ongoing.
 
 ### Snorkel lamp holder
@@ -67,11 +81,16 @@ Status: ongoing.
 | --- | --- |
 | ![SBU snorkel lamp holder model](images/sbu-snorkel-lamp-holder-model.png) | <img src="snorkel%20light%20holder%20installed.jpg" alt="Installed snorkel lamp holder" width="256"> |
 
-`SBU snorkel lamp holder.f3d`
-
 I broke the original snorkel lamp holder and did not realize replacements were still available, so I modeled my own. It turned out to be much harder than expected: the part has a lot of strange transitions, odd shapes, and packaging constraints that are not obvious until you try to reproduce it.
 
 This is also available from my [MakerWorld profile](https://makerworld.com/en/@nrh3k).
+
+<details>
+<summary>Files</summary>
+
+- `SBU snorkel lamp holder.f3d`
+
+</details>
 
 Status: design archive / replacement part.
 
@@ -79,9 +98,14 @@ Status: design archive / replacement part.
 
 <img src="om366%20pulley.png" alt="OM366 pulley CAD model" width="560">
 
-`om366 pulley.f3d`
-
 When adding air conditioning, I needed a dual-groove water pump pulley for the OM366. Those pulleys are difficult to find, so this model captures the needed part geometry for that conversion work.
+
+<details>
+<summary>Files</summary>
+
+- `om366 pulley.f3d`
+
+</details>
 
 Status: design archive / AC conversion support.
 
