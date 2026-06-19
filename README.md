@@ -12,8 +12,6 @@ Some printable parts are also available on [MakerWorld](https://makerworld.com/e
 - [Dashboard cleanup](#dashboard-cleanup)
 - [Snorkel lamp holder](#snorkel-lamp-holder)
 - [OM366 pulley](#om366-pulley)
-- [Repository layout](#repository-layout)
-- [Notes](#notes)
 - [License](#license)
 
 ## Projects
@@ -101,22 +99,10 @@ When adding air conditioning, I needed a dual-groove water pump pulley for the O
 
 </details>
 
-## Repository Layout
-
-| Path | Contents |
-| --- | --- |
-| `headlight system/` | Modular headlight holder models and STEP export |
-| `dashboard/` | Dash panel, gauge holder, plugs, knobs, and exports |
-| `SBU snorkel lamp holder.f3d` | Replacement snorkel lamp holder model |
-| `om366 pulley.f3d` | Dual-groove OM366 water pump pulley model |
-
-Most source files are Autodesk Fusion `.f3d` files. Where available, `.step` files are better for CAD interchange and `.stl` files are better suited to direct mesh-based fabrication workflows.
-
 ## Notes
 
 - These are project files from a real vehicle, not a complete commercial kit.
 - Check dimensions, fitment, material choice, fasteners, and road-use legality before using any part on your own truck.
-- Files marked `WIP` should be treated as experimental.
 - Lighting and engine-accessory parts are safety-relevant. Verify your own installation carefully.
 
 ## License
