@@ -1,10 +1,8 @@
-# Unimog SBU / U1300L CAD Projects
+# Unimog SBU / U1300L Projects
 
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
-CAD models and fabrication files for work on my Mercedes-Benz Unimog SBU / U1300L. The truck started with an OM366A and now runs an OM366LA, so some of these parts come from the practical work of keeping old military truck hardware useful while making it fit the way I want it to.
-
-This repo is part design archive, part build log, and part reference for other Unimog owners solving similar problems.
+Some parts and projects designed for my U1300L - I hope you find them useful. Non-commercial use only.
 
 ## Highlights
 
@@ -17,6 +15,10 @@ This repo is part design archive, part build log, and part reference for other U
 ![Modular headlight system CAD model](<headlight system/headlight model.png>)
 
 A modular headlight replacement system for the stock SBU / U1300L headlight setup. The goal is to make the lighting package easier to service and adapt while still fitting the original vehicle envelope.
+
+This was built around JW Speaker 8631 and 8910 EVO 2 lamps, both in 24V, but should work with any standard PAR46 round lamp and 5x7 rectangular lamp. The brackets replace the standard Hella buckets and reuse the same mounts. They do not need separate adjusters; there is enough flexibility in the existing brackets to aim them up/down and left/right.
+
+I had the brackets cut by SendCutSend in .119 steel and powder-coated black for about $200. In .100 aluminum, they were about half that price.
 
 Relevant files:
 
@@ -57,15 +59,9 @@ I broke the original snorkel lamp holder and did not realize replacements were s
 
 Status: design archive / replacement part.
 
-### U1300L light carrier
-
-`u1300L light carrier.f3d`
-
-Model for the U1300L light carrier. This appears to be the same model family as the SBU setup and is kept here with the other front lighting work.
-
-Status: design archive.
-
 ### OM366 pulley
+
+<img src="om366%20pulley.png" alt="OM366 pulley CAD model" width="560">
 
 `om366 pulley.f3d`
 
@@ -80,7 +76,6 @@ Status: design archive / AC conversion support.
 | `headlight system/` | Modular headlight holder models and STEP export |
 | `dashboard/` | Dash panel, gauge holder, plugs, knobs, and exports |
 | `SBU snorkel lamp holder.f3d` | Replacement snorkel lamp holder model |
-| `u1300L light carrier.f3d` | U1300L light carrier model |
 | `om366 pulley.f3d` | Dual-groove OM366 water pump pulley model |
 
 Most source files are Autodesk Fusion `.f3d` files. Where available, `.step` files are better for CAD interchange and `.stl` files are better suited to direct mesh-based fabrication workflows.
