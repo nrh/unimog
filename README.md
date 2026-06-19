@@ -51,7 +51,7 @@ The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light
 
 | Gauge holder | Headlight knob | Square warning light plug |
 | --- | --- | --- |
-| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
+| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob-render.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
 
 | Hole plug | 12.3mm round plug | 14.3mm round plug |
 | --- | --- | --- |
