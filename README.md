@@ -47,20 +47,33 @@ Ongoing dashboard work to clean up and beautify the cab. This includes an old-st
 
 The [light switch knob](https://makerworld.com/en/models/844162-unimog-sbu-light-switch-knob) and [dash plugs](https://makerworld.com/en/models/1440823-unimog-sbu-dash-plugs) are also on MakerWorld.
 
-| Gauge holder | Headlight knob | Square warning light plug |
-| --- | --- | --- |
-| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Headlight knob](dashboard/images/headlight-knob-render.png) | ![Square warning light plug](dashboard/images/square-warning-light-plug.png) |
+In addition to the dual Auber gauge holder, there is a lens cover. I printed it in smoked translucent filament to dim my very bright Auber gauges. My truck was also missing the blackout flap, so I printed a dimming flap out of the same translucent filament.
 
-| Hole plug | 12.3mm round plug | 14.3mm round plug |
+| Dual Auber holder | Auber lens cover | Installed Auber gauges |
 | --- | --- | --- |
-| ![Dashboard hole plug](dashboard/images/hole-plug.png) | ![12.3mm round dashboard hole plug](dashboard/images/round-hole-plug-12-3mm.png) | ![14.3mm round dashboard hole plug](dashboard/images/round-hole-plug-14-3mm.png) |
+| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Auber gauge lens cover](dashboard/images/auber-cover.png) | <img src="dashboard/images/double-auber-gauge-holder-installed.png" alt="Installed double Auber gauge holder" width="256"> |
+
+| Dash dimmer flap | Installed dash dimmer | Headlight knob |
+| --- | --- | --- |
+| ![U1300L dash dimmer flap](dashboard/images/u1300l-dash-dimmer.png) | <img src="dashboard/images/dash-dimmer-installed.jpeg" alt="Installed translucent dashboard dimmer flap" width="256"> | ![Headlight knob](dashboard/images/headlight-knob-render.png) |
+
+| Square warning light plug | Hole plug |
+| --- | --- |
+| ![Square warning light plug](dashboard/images/square-warning-light-plug.png) | ![Dashboard hole plug](dashboard/images/hole-plug.png) |
+
+| 12.3mm round plug | 14.3mm round plug |
+| --- | --- |
+| ![12.3mm round dashboard hole plug](dashboard/images/round-hole-plug-12-3mm.png) | ![14.3mm round dashboard hole plug](dashboard/images/round-hole-plug-14-3mm.png) |
 
 <details>
 <summary>Files</summary>
 
 - `dashboard/unimog dash old style.step`
 - `dashboard/unimog dash old style.stl`
+- `dashboard/unimog dash old style.f3d`
 - `dashboard/double auber gauge holder.f3d`
+- `dashboard/auber cover.f3d`
+- `dashboard/u1300L dash dimmer.f3d`
 - `dashboard/headlight knob.f3d`
 - `dashboard/hole plug.f3d`
 - `dashboard/round hole plug 12.3mm.f3d`
