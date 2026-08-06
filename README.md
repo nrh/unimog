@@ -51,7 +51,7 @@ In addition to the dual Auber gauge holder, there is a lens cover. I printed it 
 
 | Dual Auber holder | Auber lens cover | Installed Auber gauges |
 | --- | --- | --- |
-| ![Double Auber 1813-style gauge holder](dashboard/images/double-auber-gauge-holder.png) | ![Auber gauge lens cover](dashboard/images/auber-cover.png) | <img src="dashboard/images/double-auber-gauge-holder-installed.png" alt="Installed double Auber gauge holder" width="256"> |
+| ![Auber 1813-style gauge holder](dashboard/images/auber-gauge-holders.png) | ![Auber gauge lens cover](dashboard/images/auber-cover.png) | <img src="dashboard/images/double-auber-gauge-holder-installed.png" alt="Installed double Auber gauge holder" width="256"> |
 
 | Dash dimmer flap | Installed dash dimmer | Headlight knob |
 | --- | --- | --- |
